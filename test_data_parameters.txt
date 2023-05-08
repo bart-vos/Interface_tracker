@@ -1,0 +1,9 @@
+Left limit	100
+Right limit	220
+Bottom limit	120
+Top limit	140
+Interface guess	175
+Gaussian filter	0.0
+Interface color	dark
+Search up	3
+Search down	3
